@@ -6,5 +6,5 @@ This is a C# programming guide for Unity3D developers. Aim of this guide is to h
 
 ## Guides
 
-> [🇬🇧 English Guide](guide-en.md)
-> [🇪🇸 Guia Español](guide-es.md)
+- [🇬🇧 English Guide](guide-en.md)
+- [🇪🇸 Guia Español](guide-es.md)
